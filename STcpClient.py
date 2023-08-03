@@ -5,10 +5,7 @@ from numpy import zeros, array
 
 socketServer = None
 infoServer = ["localhost", 8888]
-'''
-    TODO:
-    請將 idTeam 改成學號,若開頭為0請去掉
-'''
+
 idTeam = 109550175
 
 
